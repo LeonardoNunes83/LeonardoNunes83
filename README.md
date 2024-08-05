@@ -6,7 +6,7 @@
 
 - Tenho conhecimento e experiência na área de manutenção de Hardwares.
 
-- Espero poder colaborar futuramente com os projetos do Github.
+- Espero poder colaborar com os projetos do Github.
 
 <!---
 LeonardoNunes83/LeonardoNunes83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
