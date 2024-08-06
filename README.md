@@ -4,7 +4,7 @@
   
 - Atualmente estou estudando lógica de programação utilizando o VisualG, pelo canal Curso em Vídeo do Professor Gustavo Guanabara.
 
-- Tenho conhecimento e experiência na área de manutenção de Hardwares.
+- Tenho conhecimento e experiência na área de manutenção de computadores.
 
 - Espero poder colaborar com os projetos do Github.
 
